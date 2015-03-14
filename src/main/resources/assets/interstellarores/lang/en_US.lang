@@ -9,42 +9,42 @@ item.interstellarores:materialLunarium.wafer.name=Lunarium-Doped Wafer
 # Block localizations ----------------------------------------
 
 # Moon ores
-tile.interstellarores:oreMoon.aluminum.name=Aluminum Ore
-tile.interstellarores:oreMoon.copper.name=Copper Ore
-tile.interstellarores:oreMoon.gold.name=Gold Ore
-tile.interstellarores:oreMoon.iron.name=Iron Ore
-tile.interstellarores:oreMoon.lead.name=Lead Ore
-tile.interstellarores:oreMoon.lunarium.name=Lunarium Ore
-tile.interstellarores:oreMoon.nickel.name=Nickel Ore
-tile.interstellarores:oreMoon.osmium.name=Osmium Ore
-tile.interstellarores:oreMoon.silver.name=Silver Ore
-tile.interstellarores:oreMoon.tin.name=Tin Ore
-tile.interstellarores:oreMoon.platinum.name=Platinum Ore
+tile.interstellarores:oreMoon.aluminum.name=Moon Aluminum Ore
+tile.interstellarores:oreMoon.copper.name=Moon Copper Ore
+tile.interstellarores:oreMoon.gold.name=Moon Gold Ore
+tile.interstellarores:oreMoon.iron.name=Moon Iron Ore
+tile.interstellarores:oreMoon.lead.name=Moon Lead Ore
+tile.interstellarores:oreMoon.lunarium.name=Moon Lunarium Ore
+tile.interstellarores:oreMoon.nickel.name=Moon Nickel Ore
+tile.interstellarores:oreMoon.osmium.name=Moon Osmium Ore
+tile.interstellarores:oreMoon.silver.name=Moon Silver Ore
+tile.interstellarores:oreMoon.tin.name=Moon Tin Ore
+tile.interstellarores:oreMoon.platinum.name=Moon Platinum Ore
 
 # Mars ores
-tile.interstellarores:oreMars.aluminum.name=Aluminum Ore
-tile.interstellarores:oreMars.copper.name=Copper Ore
-tile.interstellarores:oreMars.gold.name=Gold Ore
-tile.interstellarores:oreMars.iron.name=Iron Ore
-tile.interstellarores:oreMars.lead.name=Lead Ore
-tile.interstellarores:oreMars.uranium.name=Uranium Ore
-tile.interstellarores:oreMars.nickel.name=Nickel Ore
-tile.interstellarores:oreMars.osmium.name=Osmium Ore
-tile.interstellarores:oreMars.silver.name=Silver Ore
-tile.interstellarores:oreMars.tin.name=Tin Ore
-tile.interstellarores:oreMars.platinum.name=Platinum Ore
+tile.interstellarores:oreMars.aluminum.name=Mars Aluminum Ore
+tile.interstellarores:oreMars.copper.name=Mars Copper Ore
+tile.interstellarores:oreMars.gold.name=Mars Gold Ore
+tile.interstellarores:oreMars.iron.name=Mars Iron Ore
+tile.interstellarores:oreMars.lead.name=Mars Lead Ore
+tile.interstellarores:oreMars.uranium.name=Mars Yellorite Ore
+tile.interstellarores:oreMars.nickel.name=Mars Nickel Ore
+tile.interstellarores:oreMars.osmium.name=Mars Osmium Ore
+tile.interstellarores:oreMars.silver.name=Mars Silver Ore
+tile.interstellarores:oreMars.tin.name=Mars Tin Ore
+tile.interstellarores:oreMars.platinum.name=Mars Platinum Ore
 
 # Asteroid (stone 3) ores
-tile.interstellarores:oreAsteroid.diamond.name=Diamond Ore
-tile.interstellarores:oreAsteroid.platinum.name=Platinum Ore
-tile.interstellarores:oreAsteroid.quartz.name=Certus Quartz Ore
-tile.interstellarores:oreAsteroid.quartzCharged.name=Charged Certus Quartz Ore
+tile.interstellarores:oreAsteroid.diamond.name=Asteroid Diamond Ore
+tile.interstellarores:oreAsteroid.platinum.name=Asteroid Platinum Ore
+tile.interstellarores:oreAsteroid.quartz.name=Asteroid Certus Quartz Ore
+tile.interstellarores:oreAsteroid.quartzCharged.name=Asteroid Charged Certus Quartz Ore
 
 # Asteroid (ice) ores
-tile.interstellarores:oreIce.diamond.name=Icy Diamond Ore
-tile.interstellarores:oreIce.platinum.name=Icy Platinum Ore
-tile.interstellarores:oreIce.quartz.name=Icy Certus Quartz Ore
-tile.interstellarores:oreIce.quartzCharged.name=Icy Charged Certus Quartz Ore
+tile.interstellarores:oreIce.diamond.name=Icy Asteroid Diamond Ore
+tile.interstellarores:oreIce.platinum.name=Icy Asteroid Platinum Ore
+tile.interstellarores:oreIce.quartz.name=Icy Asteroid Certus Quartz Ore
+tile.interstellarores:oreIce.quartzCharged.name=Icy Asteroid Charged Certus Quartz Ore
 
 #Metal blocks
 tile.interstellarores:metal.lunarium.name=Lunarium Block

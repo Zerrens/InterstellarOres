@@ -27,6 +27,7 @@ public class InterstellarDictionary {
         OreDictionary.registerOre("oreOsmium", new ItemStack(ModBlocks.moonOre, 1, 8));
         OreDictionary.registerOre("oreLunarium", new ItemStack(ModBlocks.moonOre, 1, 9));
         OreDictionary.registerOre("orePlatinum", new ItemStack(ModBlocks.moonOre, 1, 10));
+        OreDictionary.registerOre("oreUranium", new ItemStack(ModBlocks.moonOre, 1, 11));
         //mars
         OreDictionary.registerOre("oreIron", new ItemStack(ModBlocks.marsOre, 1, 0));
         OreDictionary.registerOre("oreGold", new ItemStack(ModBlocks.marsOre, 1, 1));
@@ -39,6 +40,7 @@ public class InterstellarDictionary {
         OreDictionary.registerOre("oreOsmium", new ItemStack(ModBlocks.marsOre, 1, 8));
         OreDictionary.registerOre("oreYellorium", new ItemStack(ModBlocks.marsOre, 1, 9));
         OreDictionary.registerOre("orePlatinum", new ItemStack(ModBlocks.marsOre, 1, 10));
+        OreDictionary.registerOre("oreUranium", new ItemStack(ModBlocks.marsOre, 1, 11));
         //asteroid
         OreDictionary.registerOre("oreDiamond", new ItemStack(ModBlocks.asteroidOre, 1, 0));
         OreDictionary.registerOre("orePlatinum", new ItemStack(ModBlocks.asteroidOre, 1, 1));

@@ -13,8 +13,8 @@ public class Names {
 
         public static final String BLOCK_METAL = "metal";
 
-        public static final String[] MOON_ORE_SUBTYPES = {"iron","gold","copper","tin","lead","silver","nickel","aluminum","osmium","lunarium","platinum"};
-        public static final String[] MARS_ORE_SUBTYPES = {"iron","gold","copper","tin","lead","silver","nickel","aluminum","osmium","yellorium","platinum"};
+        public static final String[] MOON_ORE_SUBTYPES = {"iron","gold","copper","tin","lead","silver","nickel","aluminum","osmium","lunarium","platinum","uranium"};
+        public static final String[] MARS_ORE_SUBTYPES = {"iron","gold","copper","tin","lead","silver","nickel","aluminum","osmium","yellorium","platinum","uranium"};
         public static final String[] ASTEROID_ORE_SUBTYPES = {"diamond","platinum","quartz","quartzCharged"};
         public static final String[] ICE_ORE_SUBTYPES = {"diamond","platinum","quartz","quartzCharged"};
 

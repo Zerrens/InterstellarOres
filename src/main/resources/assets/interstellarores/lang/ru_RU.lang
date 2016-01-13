@@ -1,0 +1,52 @@
+# Item localizations -----------------------------------------
+
+# Lunarium
+item.interstellarores:materialLunarium.chunk.name=Лунариум чанк
+item.interstellarores:materialLunarium.plate.name=Сжатый лунариум
+item.interstellarores:materialLunarium.wafer.name=Лунариумовая полупроводниковая пластина
+
+
+# Block localizations ----------------------------------------
+
+# Moon ores
+tile.interstellarores:oreMoon.aluminum.name=Лунная алюминиевая руда
+tile.interstellarores:oreMoon.copper.name=Лунная медная руда
+tile.interstellarores:oreMoon.gold.name=Лунная золотая руда
+tile.interstellarores:oreMoon.iron.name=Лунная железная руда
+tile.interstellarores:oreMoon.lead.name=Лунная свинцовая руда
+tile.interstellarores:oreMoon.lunarium.name=Лунная лунариевая руда
+tile.interstellarores:oreMoon.nickel.name=Лунная никелевая руда
+tile.interstellarores:oreMoon.osmium.name=Лунная осмиевая руда
+tile.interstellarores:oreMoon.silver.name=Лунная серебряная руда
+tile.interstellarores:oreMoon.tin.name=Лунная оловянная руда
+tile.interstellarores:oreMoon.platinum.name=Лунная платиновая руда
+tile.interstellarores:oreMoon.uranium.name=Лунная урановая руда
+
+# Mars ores
+tile.interstellarores:oreMars.aluminum.name=Марсианская алюминиевая руда
+tile.interstellarores:oreMars.copper.name=Марсианская медная руда
+tile.interstellarores:oreMars.gold.name=Марсианская золотая руда
+tile.interstellarores:oreMars.iron.name=Марсианская железная руда
+tile.interstellarores:oreMars.lead.name=Марсианская свинцовая руда
+tile.interstellarores:oreMars.yellorium.name=Марсианская йеллориумовая руда
+tile.interstellarores:oreMars.nickel.name=Марсианская никелевая руда
+tile.interstellarores:oreMars.osmium.name=Марсианская осмиевая руда
+tile.interstellarores:oreMars.silver.name=Марсианская серебряная руда
+tile.interstellarores:oreMars.tin.name=Марсианская оловянная руда
+tile.interstellarores:oreMars.platinum.name=Марсианская платиновая руда
+tile.interstellarores:oreMars.uranium.name=Марсианская урановая руда
+
+# Asteroid (stone 3) ores
+tile.interstellarores:oreAsteroid.diamond.name=Астероидная алмазная руда
+tile.interstellarores:oreAsteroid.platinum.name=Астероидная платиновая руда
+tile.interstellarores:oreAsteroid.quartz.name=Астероидная руда истинного кварца
+tile.interstellarores:oreAsteroid.quartzCharged.name=Астероидная заряженная руда истинного кварца
+
+# Asteroid (ice) ores
+tile.interstellarores:oreIce.diamond.name=Ледяная астероидная алмазная руда
+tile.interstellarores:oreIce.platinum.name=Ледяная астероидная платиновая руда
+tile.interstellarores:oreIce.quartz.name=Ледяная астероидная руда истинного кварца
+tile.interstellarores:oreIce.quartzCharged.name=Ледяная астероидная заряженная руда истинного кварца
+
+#Metal blocks
+tile.interstellarores:metal.lunarium.name=Блок лунариума
